@@ -47,6 +47,7 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 ## Client:
 ![330081250-56fdf0d0-2ef3-4c8f-8fe7-ed0ebc6865a0](https://github.com/user-attachments/assets/9bd663f8-d6ff-4d10-bd91-7c43a5733a05)
 ## Server:
+![330081631-fb0ff4cf-fe40-4877-af4e-a9b228a0458f](https://github.com/user-attachments/assets/3c1768e7-8a78-4d9f-94e6-f19ba70284ea)
 
 ## RESULT
 Thus, the python program for creating Echo Client and Echo Server using TCP Sockets Links 
